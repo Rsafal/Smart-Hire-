@@ -8,15 +8,15 @@ class StoreProvider extends ChangeNotifier {
   List<Product> products = [
     new Product(
         "Kshitij Raj", "Backend Developer", "assets/Icons/DS Front.png", 1000),
-    new Product("chandu", "Kotlin/ Flutter and Dart Developer",
+    new Product("preetish patel", "cp,web developer,noob gamer",
         "assets/Icons/DS Back.png", 5000,
         featured: true),
     new Product("Divya Uchenya", "Maa Behen Ak Kar Dene Wali",
         "assets/Icons/DSA Front.png", 100),
     new Product("Ayushman Dutta", "Tension ki Dukan",
         "assets/Icons/DWT Front.png", 1000),
-    new Product(
-        "Rana Safal", "Massage Therapist", "assets/Icons/ESDS Front.png", 10,
+    new Product("Rana Safal", "Head developer,all skills",
+        "assets/Icons/ESDS Front.png", 10000000,
         featured: true),
     new Product(
         "Shivam sharma", "Sticker Specialist", "assets/Icons/Pal.png", 4000,
